@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bem-vindo ao meu novo perfil do GitHub!
 
-<!--
-**icaroavalos/icaroavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Ícaro Ávalos. Aqui está um pouco sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou me aprofundando em Análise de dados, Big Data e IA.
+- 🌱 Estou procurando colaborar em projetos relacionados a análise de dados e IA.
+- 📫 Como chegar até mim: icaroavalos@hotmail.com ou https://www.linkedin.com/in/icaroavalos/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens e tecnologias que uso
+
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Python-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-SQL%20%7C%20NoSQL-yellowgreen)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Excel-green)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-MySQL-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Postgres-blue)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-MongoDB-green)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-ETL-yellow)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-ELT-yellow)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Data%20Warehouse-blueviolet)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Data%20Lake-brightgreen)
+
+### Como entrar em contato comigo
+
+Você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/icaroavalos/)
+- [E-mail](mailto:icaroavalos@hotmail.com)
+
+Sinta-se à vontade para entrar em contato comigo para conversar ou colaborar em projetos! Obrigado por visitar o meu perfil.
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="200" />
+</p>
