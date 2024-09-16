@@ -10,7 +10,7 @@
 
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Python-blue)
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Qlik%20Sense%20-green)
-![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Powerbi-yellow)
+![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Power%20BI-yellow)
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-SQL%20%7C%20NoSQL-yellowgreen)
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-Excel-green)
 ![Linguagens e tecnologias que uso](https://img.shields.io/badge/-MySQL-blue)
